@@ -1,4 +1,4 @@
 text = 'Martin'
 
 for znak in text:
-    print(znak)
+    print(f'Toto je {znak}')
